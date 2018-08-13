@@ -203,7 +203,7 @@ java 代码解密：
 
 2.ajax请求获取data.php的数据
 
-data:image/png;base64,*** 可以使用https://codebeautify.org/base64-to-image-converter在线解析出来，果不其然，是一张二维码，扫出来就是我们要发送的a,b,c当中的参数a
+data:image/png;base64,*** 可以使用[https://codebeautify.org/base64-to-image-converter](https://codebeautify.org/base64-to-image-converter)在线解析出来，果不其然，是一张二维码，扫出来就是我们要发送的a,b,c当中的参数a
 
 ![](https://i.imgur.com/P2hBdGx.png)
 
